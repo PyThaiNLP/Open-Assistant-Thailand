@@ -11,3 +11,10 @@ Open Assistant เป็นโครงการที่ต้องการ�
 ## วิดีโอแนะนำ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/64Izfm24FKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+We build Thai NLP.
+
+PyThaiNLP
