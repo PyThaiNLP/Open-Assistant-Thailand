@@ -10,6 +10,10 @@ Open Assistant เป็นโครงการที่ต้องการ�
 
 - [คู่มือการใช้งานเบื้องต้น](./basic)
 
+เอกสารเพิ่มเติม
+
+- [Help Us Build An Open Source ChatGPT](https://docs.google.com/document/d/1V3Td6btwSMkZIV22-bVKsa3Ct4odHgHjnK-BrcNJBWY/edit)
+
 เว็บไซต์ [Open-Assistant.io/th](https://open-assistant.io/th)
 
 ## วิดีโอแนะนำ
