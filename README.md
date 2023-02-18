@@ -4,6 +4,10 @@ Open Assistant เป็นโครงการที่ต้องการ�
 
 - [เอกสารแนะนำการกำกับ **(แนะนำให้อ่านก่อนกำกับ)**](./guidelines)
 
+คู่มือ
+
+- [คู่มือการใช้งานเบื้องต้น](./basic)
+
 ## วิดีโอแนะนำ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/64Izfm24FKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
