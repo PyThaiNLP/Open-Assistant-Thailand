@@ -1,4 +1,8 @@
-# Open Assistant Thailand
+---
+permalink: /
+layout: home
+title: Home
+---
 
 ![Open Assistant ภาษาไทย](https://i.imgur.com/vLFFYdV.png)
 
