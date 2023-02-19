@@ -16,6 +16,8 @@ Open Assistant เป็นโครงการที่ต้องการ�
 
 เว็บไซต์ [Open-Assistant.io/th](https://open-assistant.io/th)
 
+พูดคุยกับ**ชุมชน Open Assistant Thailand** ได้ที่ [Open Assistant Thailand - Facebook Groups](https://www.facebook.com/groups/openassistantthailand)
+
 ## วิดีโอแนะนำ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/64Izfm24FKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
