@@ -1,4 +1,4 @@
-# Open Assistant
+# Open Assistant Thailand
 
 ![Open Assistant ภาษาไทย](https://i.imgur.com/vLFFYdV.png)
 
