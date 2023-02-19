@@ -1,4 +1,7 @@
-# Guidelines สำหรับสร้างข้อมูล Open Assistant
+---
+permalink: /guidelines
+title: Guidelines สำหรับสร้างข้อมูล Open Assistant
+---
 
 เอกสารนี้แปลจาก Guidelines ของ Open Assistant ที่ projects.laion.ai/Open-Assistant/docs/guides/guidelines เมื่อ 19 กุมภาพันธ์ 2023
 นี่คือ Guidelines ของการสร้างชุดข้อมูลสำหรับฝึกสอนโมเดล Open Assistant (“ChatGPT ภาษาไทย” แบบ Open Source) หากคุณมีข้อเสนอแนะสามารถส่งไปให้ LAION-AI ได้โดยตรงผ่าน[แบบฟอร์มนี้](https://forms.gle/vBW7b2kMzjCoehkH9) หรือติดต่อโดยตรงผ่าน [Github](https://github.com/LAION-AI/Open-Assistant)
