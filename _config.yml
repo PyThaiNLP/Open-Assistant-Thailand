@@ -1,1 +1,5 @@
 theme: minima
+title: Open Assistant Thailand
+description: Conversational AI สำหรับทุกคน
+author: "PyThaiNLP"
+show_excerpts: true
