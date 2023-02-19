@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /basic
 title: คู่มือการใช้งานเบื้องต้น
 ---
 
