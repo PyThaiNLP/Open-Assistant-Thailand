@@ -53,3 +53,5 @@ LAION.AI เป็นเจ้าของและเป็นผู้ดำ�
 We build Thai NLP.
 
 PyThaiNLP
+
+![](https://i.imgur.com/68H1ghc.png)
