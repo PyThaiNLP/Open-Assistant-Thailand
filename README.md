@@ -6,6 +6,8 @@ title: Home
 
 ![Open Assistant ภาษาไทย](https://i.imgur.com/vLFFYdV.png)
 
+**ปัจจุบันนี้ Open Assistant ได้ยุติโครงการ เนื่องจากปัญหาเรื่องทุนสนับสนุน แต่มีชุดข้อมูลปล่อยออกมาแล้ว ที่ Hugging Face Hub: [https://huggingface.co/OpenAssistant](https://huggingface.co/OpenAssistant) ทั้งภาษาไทยและภาษาอื่น ๆ ขอขอบคุณทุกท่านที่ให้กับสนับสนุนและสนใจ หน้านี้เก็บไว้เป็นประวัติ**
+
 Open Assistant เป็นโครงการที่ต้องการสร้าง AI แบบแชทบอทที่ทุก ๆ คนสามารถเข้าถึงได้ โดยตอนนี้งานหลักปัจจุบันนี้เปิดรับบริจาคข้อมูลบทสนทนา เริ่มช่วยสร้าง "ChatGPT ภาษาไทยโดยคนไทย-เพื่อคนไทย" ได้ที่ [Open-Assistant.io/th](https://open-assistant.io/th)
 
 - [เอกสารแนะนำการกำกับ **(แนะนำให้อ่านก่อนกำกับ)**](./guidelines)
